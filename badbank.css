@@ -1,0 +1,21 @@
+div {
+  font-family: Rockwell;
+}
+
+button {
+  font-family: Rockwell;
+  background-color: rgb(77, 141, 64);
+  border-radius: 5px;
+  border: none;
+}
+
+table, th, tr, td {
+  border: 2px solid rgb(16, 97, 16);
+  border-collapse: collapse;
+  padding: 4px;
+}
+
+.bold {
+  display: inline;
+  font-weight: bold;
+}
